@@ -1,3 +1,3 @@
 ## This is README file for demo.
 
-## This is my change in README file in b1 branch.
+## This is my change in README file in b2 branch.
